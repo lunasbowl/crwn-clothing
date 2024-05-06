@@ -11,7 +11,6 @@ const Directory = ({ categories }) => {
           category={category}
         />
       ))}
-      ;
     </div>
   );
 };
